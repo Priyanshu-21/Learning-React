@@ -1,4 +1,5 @@
 import './App.css'
+import Conditionals from './conditionals';
 
 
 const userDetails = [
@@ -38,6 +39,7 @@ function App() {
       <h1>Hello React from Priyanshu</h1>
       <MyButton/>
       <Users />
+      <Conditionals />
     </>
   )
 }
